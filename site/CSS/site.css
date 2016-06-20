@@ -6,14 +6,14 @@
 
  h1 {
  	text-align: center;
- 	font-size: 1.75rem;
+ 	
  }
  .title {
  	position: absolute;
  	top: 0;
  	right: 0;
  	border: 1px solid black;
- 	font-size: 1.25rem;
+ 	
  }
 
  #p1, #p2, #p3 {
@@ -23,7 +23,7 @@
  }
 
  #p1 .content, #p2 .content, #p3 .content {
- 	font-size: 1rem;
+ 	
  	background-color: grey; 
  	position: relative;
  	border:1px solid black;
